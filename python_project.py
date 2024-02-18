@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Python Project
+"""Mini Project Python(Group 3 people)
 
 Download Dataset
 
